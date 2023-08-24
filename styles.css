@@ -1,0 +1,43 @@
+.links
+{
+    font-weight: 700;
+    color: #fb3f00;
+    text-decoration: none;
+}
+div
+{   background-color: deepskyblue;
+    font-weight: 700;
+}
+
+div .list
+{
+    background-color: aquamarine;
+}
+
+.ending{
+    color:#fb3f00;
+}
+
+.image{
+    height: auto;
+    width: 400px;
+}
+
+.ingredients{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+}
+
+.lasagna{
+    color: red;
+}
+
+.layer{
+    font-family: "Arial", sans-serif;
+    font-weight: 700;
+}
+
+.image1{
+    height: 500px;
+    width: 500px;
+}
